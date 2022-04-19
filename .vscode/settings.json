@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.wxss": "css",
+    "*.cjson": "jsonc",
+    "*.wxs": "javascript",
+    "*.ts": "typescript",
+    "*.vue": "vue",
+    "*.dart": "dart",
+    "*.json": "jsonc",
+    ".prettierrc": "jsonc",
+    "*.wpy": "vue",
+    "*.wxml": "html"
+  }
+}
